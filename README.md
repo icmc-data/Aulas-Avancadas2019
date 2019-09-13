@@ -7,6 +7,9 @@ Professor convidado Eugênio Cabral do GBDI, ICMC. [Apresentação](https://docs
 
 ## Aula 02 - Como (quase) ganhar uma competição do Kaggle
 
-Professor convidado Bruno Coelho, Labic, ICMC. [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vR58n2Bj_pSS9FDGwVuh2V7bsOEgI6jVmbwLUidB1CillKaop_mZF3znXfEAuFJ3O6EnGoYvAYW__x7/pub?start=false&loop=false&delayms=60000).
+Professor convidado Bruno Gomes Coelho, Labic, ICMC. [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vR58n2Bj_pSS9FDGwVuh2V7bsOEgI6jVmbwLUidB1CillKaop_mZF3znXfEAuFJ3O6EnGoYvAYW__x7/pub?start=false&loop=false&delayms=60000).
 
 
+## Aula 03 - Introdução a Teoria do Aprendizado estatístico.
+
+Professor convidado Rodrigo Fernandes de Mello, ICMC.
