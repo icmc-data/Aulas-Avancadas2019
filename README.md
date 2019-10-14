@@ -16,3 +16,10 @@ Professor convidado Rodrigo Fernandes de Mello, ICMC.
 
 - Problemas na área de SLT, [breve explicação](https://cs.uwaterloo.ca/news/professor-shai-ben-david-and-colleagues-prove-some-problems), [paper original](https://arxiv.org/abs/1711.05195), [Drive](http://tiny.cc/tae) com áudio, fotos e gravação da aula.
 
+
+## Aula 04 - Análise Exploratória de Dados Espaciais Regionais
+
+Professor convidado Tiago Silva, ICMC.
+
+- [Apresentação](https://docs.google.com/presentation/d/1t-ICX15U1lBxW2gDmOnNu9P7URIwnYMLr4k3cV2U99Q/edit?usp=sharing), [código](https://github.com/icmc-data/Aulas-Avancadas2019/tree/master/aula4)
+
