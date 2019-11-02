@@ -23,3 +23,15 @@ Professor convidado Tiago Silva, ICMC.
 
 - [Apresentação](https://docs.google.com/presentation/d/1t-ICX15U1lBxW2gDmOnNu9P7URIwnYMLr4k3cV2U99Q/edit?usp=sharing), [código](https://github.com/icmc-data/Aulas-Avancadas2019/tree/master/aula4)
 
+## Aula 05 - Inteligência Artificial em Grafos
+
+Professora convidada Fabiana Rodrigues, ICMC.
+
+- [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vRSeiFmZAVHSl5Ff2s7P0OPEJJsLPujcpem9pnnaNDmkZUPDsrVO47VD1orTm9tOUxFq6iCR1kKxu1m/pub?start=false&loop=false&delayms=3000)
+
+## Aula 06 - Como quase ganhar uma competição do Kaggle 2.0
+
+Professores convidados David Cruz & Gustavo Soares, ICMC.
+
+- [Apresentação](https://docs.google.com/presentation/d/e/2PACX-1vRcQZ3eF-qiZGbYmNsc4wkB3C8jPkDbtgQn25fDXjXcyC3XJeOcm23xtRw9IcZyWYV9coWP7sUB86Qt/pub?start=false&loop=false&delayms=60000)
+
